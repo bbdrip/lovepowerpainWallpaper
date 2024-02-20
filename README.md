@@ -1,7 +1,7 @@
 # lovepowerpainWallpaper
 a free active wallpaper 
 
-my own html and css and a modified script using @javascriptacademy-stash digital main script as a base code
+my own html and css and a modified script using @javascriptacademy-stash "digital rain" script as a base code
 
 unzip the file and keep it organized.
 
